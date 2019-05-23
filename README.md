@@ -9,10 +9,10 @@ Ultimately, it's up to you (or maybe your boss) whether you also follow these ru
 
 Also, let's add validations to this Semi-Restful TV Shows assignment! Building off of the existing assignment, implement validations for form data entered to prevent dirty data from getting into your database. If a submission is invalid, display errors on the appropriate page.
 
-Objectives:
+    Objectives:
 
-• Practice ORM queries from the controller
-• Practice RESTful routing
-• Practice rendering query results to templates
-• Practice using form input to create table data
-• Practice validating data before entering it into the database
+        • Practice ORM queries from the controller
+        • Practice RESTful routing
+        • Practice rendering query results to templates
+        • Practice using form input to create table data
+        • Practice validating data before entering it into the database
